@@ -52,6 +52,10 @@ nav div a{
     transition:0.2s;
     display:inline-block;
 }
+.selectet_header{
+    font-style: italic;
+    text-decoration: underline;
+}
 nav div a:hover{
     text-decoration:underline;
     transition:0.2s;
